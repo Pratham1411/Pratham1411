@@ -91,14 +91,17 @@ Passionate about building scalable backend systems, clean APIs, and modern web a
 </p>
 
 --->
+---
 
 # 📫 How to Reach Me
-
-📧 **Email:** prathameshsureshshinde@gmail.com
 
 💼 **LinkedIn:** https://linkedin.com/in/www.linkedin.com/in/prathamesh-shinde-592ab221b
 
 💻 **GitHub:** https://github.com/Pratham1411
+
+---
+
+![snake gif](https://github.com/Pratham1411/Pratham1411/blob/output/github-contribution-grid-snake.svj)
 
 ---
 
