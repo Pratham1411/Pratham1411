@@ -101,7 +101,7 @@ Passionate about building scalable backend systems, clean APIs, and modern web a
 
 ---
 
-![snake gif](https://github.com/Pratham1411/Pratham1411/blob/output/github-contribution-grid-snake.svj)
+![snake gif](https://github.com/Pratham1411/Pratham1411/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
