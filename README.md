@@ -101,7 +101,11 @@ Passionate about building scalable backend systems, clean APIs, and modern web a
 
 ---
 
-![snake gif](https://github.com/Pratham1411/Pratham1411/blob/output/github-snake-dark.svg)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
