@@ -80,9 +80,13 @@ Passionate about building scalable backend systems, clean APIs, and modern web a
 
 # 📫 How to Reach Me
 
-💼 **LinkedIn:** https://linkedin.com/in/www.linkedin.com/in/prathamesh-shinde-592ab221b
+<div align="center">
 
-💻 **GitHub:** https://github.com/Pratham1411
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamesh-shinde-592ab221b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratham1411)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([YOUR_INSTAGRAM_URL](https://www.instagram.com/pr8mesh_/?hl=en))
+
+</div>
 
 ---
 
